@@ -49,7 +49,4 @@ This circuit is designed to efficiently amplify audio signals using a push-pull 
 
 ---
 
-## Author
-Mustafa Hatem and Team  
-University Project – Analog Electronics Lab
-
+## Author: Infinity Explorers Team 
